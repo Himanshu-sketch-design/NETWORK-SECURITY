@@ -5,14 +5,18 @@ Summary: Project on Network Security
 Home-page: https://github.com/Himanshu-sketch-design/NETWORK-SECURITY
 Author: Himanshu Rana
 Author-email: himanshurana5800@gmail.com
-Keywords: keyword1,keyword2
 Classifier: Programming Language :: Python :: 3.10
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier
 Dynamic: description
 Dynamic: home-page
-Dynamic: keywords
 Dynamic: summary
 
 NETWORK SECURITY PROJECT
+
+Not Accessible:
+
+.env
+push_mongodb.py
+test_mongodb.py

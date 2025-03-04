@@ -7,7 +7,6 @@ Python projects based on packages and their dependencies listed in the script.
 
 from setuptools import setup, find_packages
 from typing import List
-import os
 
 try:
     with open('README.md') as f:
