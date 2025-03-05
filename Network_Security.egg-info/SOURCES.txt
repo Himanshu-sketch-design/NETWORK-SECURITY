@@ -6,6 +6,7 @@ Network_Security.egg-info/SOURCES.txt
 Network_Security.egg-info/dependency_links.txt
 Network_Security.egg-info/top_level.txt
 Network_Security/Cloud/__init__.py
+Network_Security/Cloud/s3_syncer.py
 Network_Security/Components/__init__.py
 Network_Security/Components/data_ingestion.py
 Network_Security/Components/data_transformation.py
@@ -21,6 +22,8 @@ Network_Security/Exception/exception.py
 Network_Security/Logging/__init__.py
 Network_Security/Logging/logger.py
 Network_Security/Pipeline/__init__.py
+Network_Security/Pipeline/batch_prediction.py
+Network_Security/Pipeline/training_pipeline.py
 Network_Security/Utils/__init__.py
 Network_Security/Utils/main_utils/__init__.py
 Network_Security/Utils/main_utils/utils.py
