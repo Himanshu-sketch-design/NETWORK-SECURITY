@@ -7,5 +7,7 @@ pymongo
 pymongo[srv]==3.6
 dnspython
 scikit-learn
+dill
+pyaml
 
 -e .
