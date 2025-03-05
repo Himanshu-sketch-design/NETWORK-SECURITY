@@ -8,6 +8,7 @@ Network_Security.egg-info/top_level.txt
 Network_Security/Cloud/__init__.py
 Network_Security/Components/__init__.py
 Network_Security/Components/data_ingestion.py
+Network_Security/Components/data_transformation.py
 Network_Security/Components/data_validation.py
 Network_Security/Components/model_trainer.py
 Network_Security/Constants/__init__.py
